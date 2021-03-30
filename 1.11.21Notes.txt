@@ -1,0 +1,33 @@
+Object Oriented Programming in Java:
+Why Java? Java is a very popular, rich programming language.
+
+Structure is a user-defined data type
+
+class is a structure with methods
+
+ex:
+
+student { int id; //we can hide these variables by making them 'private'
+	  char name[100];
+	  float gpa;
+	  //----------------
+	  void print();
+ 	  returngpa();
+	}//eval
+
+only methods declared inside the class can access the private variables
+
+class is the data type
+object is the actual memory location where you store the variables and information
+
+so your java program is a collection of classes while C program was a collection of functions.
+
+When you run your java program, you will have a class and inside the class you will have your main method
+  and execution starts from main. 
+
+
+
+example java program to show construction of above shown at student.java 
+
+
+
