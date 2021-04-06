@@ -18,7 +18,7 @@ public class Client {
     private FileWriter composer;
     private ArrayList<Email> emails;
     private Scanner scan;
-	private String currentPosition;
+	  private String currentPosition;
   
 
     /*
@@ -320,6 +320,6 @@ public class Client {
 								System.out.println(e.getMessage());
 						}  
 				}   
-      } while (option != 7);
+      } while (option != 8);
 		}
 }
