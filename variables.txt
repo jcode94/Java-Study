@@ -1,7 +1,0 @@
-Program consists of instructions executing one at a time.
-Basic instruction types are:
-	Input: A program gets data, perhaps from a file, keyboard, touchscreen, network, etc.
-	Process: Program performs comnputations on that data, such as adding two values like x + y.
-	Output: Program puts that data somewhere, such as to a file, screen, network, etc.
-	
-Programs use VARIABLES to refer to data, like x, y and z. 

@@ -1,4 +1,4 @@
-/*
+
 class Main {
   public static void main(String args[]) {
     try {
@@ -8,6 +8,3 @@ class Main {
       System.out.println("Got the Exception "+ e); 
     }
   }
-}
-*/
-
